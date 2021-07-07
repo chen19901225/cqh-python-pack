@@ -3,6 +3,9 @@
     "displayName": "cqh-python-pack",
     "description": "",
     "version": "0.0.4",
+    "repository": {
+        "url": "https://github.com/chen19901225/cqh-python-pack.git"
+    },
     "publisher": "cqh",
     "engines": {
         "vscode": "^1.57.0"
