@@ -2,7 +2,7 @@
     "name": "cqh-python-pack",
     "displayName": "cqh-python-pack",
     "description": "",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "repository": {
         "url": "https://github.com/chen19901225/cqh-python-pack.git"
     },
@@ -31,6 +31,7 @@
         "cqh.surround-python",
         "cqh.cqh-paste",
         "cqh.cqh-vue-utils",
+        "cqh.cqh-string-helper",
         "visualstudioexptteam.vscodeintellicode"
     ]
 }
